@@ -1,0 +1,9 @@
+{
+  "app": {
+    "port": 8080,
+    "filename": "lorem-ipsum.txt",
+    "interval": 5,
+    "batchSize": [0,22],
+    "wordCount": [1,9]
+  }
+}
